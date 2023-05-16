@@ -1,4 +1,4 @@
-<img src="CyberPunk_Artur_Sadlos.png">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mrfxde/" target="_blank">
   </a>
